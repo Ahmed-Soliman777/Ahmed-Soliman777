@@ -23,7 +23,7 @@
 
 ###
 
-<h5 align="left">I'm Ahmed Soliman from Egypt<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I learn spanish & watch wrestling</h5>
+<h4 align="left">I'm Ahmed Soliman from Egypt<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I learn spanish & watch wrestling</h4>
 
 ###
 
@@ -61,8 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb nosql" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql sql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" />
 
 </div>
 
