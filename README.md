@@ -5,15 +5,12 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-soliman-15bb74200/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@AhmedSoliman-n1t">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  </a>
 </div>
 
 ###
@@ -26,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Ahmed Soliman from Egypt<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I learn spanish & watch wrestling</p>
+<h2 align="left">I'm Ahmed Soliman from Egypt<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I learn spanish & watch wrestling</h2>
 
 ###
 
@@ -56,7 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular" />
 
-  <br/><br/>
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
@@ -64,8 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="expressjs" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtoken/jsonwebtoken-original.svg" height="40" alt="jsonwebtoken" />
-
-  <br/><br/>
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb nosql" />
