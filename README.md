@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">I'm Ahmed Soliman from Egypt<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I learn spanish & watch wrestling</h2>
+<h5 align="left">I'm Ahmed Soliman from Egypt<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I learn spanish & watch wrestling</h5>
 
 ###
 
