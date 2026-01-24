@@ -1,35 +1,48 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhpYzR3c3ltamUxczFqNzRmYnc4YnhhY2twbWQza2VrY2ZleHZkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhpYzR3c3ltamUxczFqNzRmYnc4YnhhY2twbWQza2VrY2ZleHZkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
 </div>
 
 ###
+
+<h1 align="center">Hi, I'm Ahmed Soliman 👋</h1>
+
+<h3 align="center">Full-Stack Web Developer | JavaScript • React • Node.js</h3>
+
+---
+
+## 📌 Description
+
+I’m a passionate **Web Developer from Egypt** with hands-on experience building modern, responsive, and scalable web applications.  
+I enjoy turning complex problems into clean, efficient solutions and continuously improving my skills with modern web technologies.
+
+I’m comfortable working across the **frontend and backend**, collaborating with teams, and delivering user-focused products.
+
+---
+
+## 🔗 Links
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-soliman-15bb74200/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.youtube.com/@AhmedSoliman-n1t">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 👩‍💻 About Me
 
-###
+- 🌍 Based in **Egypt**
+- 💼 Working as a **Web Developer**
+- 🧠 Strong focus on **clean code, performance, and scalability**
+- 🚀 Interested in **full-stack development and modern frameworks**
+- 📚 Always learning and improving my technical skill set
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
-
-<h4 align="left">I'm Ahmed Soliman from Egypt<br><br>- 🔭 I’m working as web developer<br></h4>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Language and Tools
 
 <div align="left">
 
@@ -51,7 +64,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular" />
 
-
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
@@ -59,7 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs" />
 
-  <!-- Databases -->
+  <!-- Databases & Styling -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb nosql" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql sql" />
@@ -71,7 +83,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" height="40" alt="npm" />
 
 </div>
-
-</div>
-
-###
