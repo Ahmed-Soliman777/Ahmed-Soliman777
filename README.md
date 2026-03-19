@@ -6,16 +6,16 @@
 
 <h1 align="center">Hi, I'm Ahmed Soliman 👋</h1>
 
-<h3 align="center">Full-Stack Web Developer | JavaScript • React • Node.js</h3>
+<h3 align="center">Front-end Developer | JavaScript • React</h3>
 
 ---
 
 ## 📌 Description
 
-I’m a passionate **Web Developer from Egypt** with hands-on experience building modern, responsive, and scalable web applications.  
+I’m a passionate **Front-end Developer from Egypt** with hands-on experience building modern, responsive, and scalable web applications.  
 I enjoy turning complex problems into clean, efficient solutions and continuously improving my skills with modern web technologies.
 
-I’m comfortable working across the **frontend and backend**, collaborating with teams, and delivering user-focused products.
+I’m comfortable collaborating with teams, and delivering user-focused products.
 
 ---
 
@@ -35,9 +35,9 @@ I’m comfortable working across the **frontend and backend**, collaborating wit
 ## 👩‍💻 About Me
 
 - 🌍 Based in **Egypt**
-- 💼 Working as a **Web Developer**
+- 💼 Working as a **Front-end Developer**
 - 🧠 Strong focus on **clean code, performance, and scalability**
-- 🚀 Interested in **full-stack development and modern frameworks**
+- 🚀 Interested in **front-end development and modern frameworks**
 - 📚 Always learning and improving my technical skill set
 
 ---
@@ -61,20 +61,9 @@ I’m comfortable working across the **frontend and backend**, collaborating wit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="expressjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs" />
-
+  
   <!-- Databases & Styling -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb nosql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql sql" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql sql" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
   <img width="12" />
